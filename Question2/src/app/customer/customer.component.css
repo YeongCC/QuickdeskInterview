@@ -1,0 +1,38 @@
+.myDiv {
+    background-color: lightblue;    
+    text-align: center;
+    height: 300px;
+}
+.size{
+    padding:70px;
+}
+
+.mysecDiv {  
+     text-align: center;
+    height: 500px; 
+    -ms-text-justify: distribute-all-lines;
+    text-justify: distribute-all-lines;
+    width:100%;
+}
+
+.counter {  
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    margin: 10px 10px 10px 10px;
+    vertical-align: top;
+    display: inline-block;
+    zoom: 1;
+}
+
+.dot {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.but{
+    height: 50px;
+    width: 200px;
+}

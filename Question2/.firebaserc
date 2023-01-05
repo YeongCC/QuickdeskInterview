@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "partb-33053": {
+      "hosting": {
+        "PartB": [
+          "partb-33053"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "partb-33053"
+  }
+}

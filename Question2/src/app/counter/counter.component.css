@@ -1,0 +1,28 @@
+.myDiv {  
+    text-align: center;
+   height: 500px; 
+   -ms-text-justify: distribute-all-lines;
+   text-justify: distribute-all-lines;
+   width:100%;
+}
+
+.counter {  
+   text-align: center;
+   width: 300px;
+   height: 500px;
+   margin: 10px 10px 10px 10px;
+   vertical-align: top;
+   display: inline-block;
+   zoom: 1;
+   background:red;
+}
+
+.but{
+    height: 50px;
+    width: 100px;
+}
+
+.column{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

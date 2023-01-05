@@ -1,0 +1,31 @@
+<p>customer view</p>
+<div class="myDiv">
+  <div class="size">
+    <h1>Now Serving : {{latest_serving_num}}</h1>
+    <h1>Lasr Number : {{latest_issuedd_num}}</h1>
+    <button type="button" class="but" (click)="getlatest_issuedd_num()">Take A Number</button>
+  </div>
+</div>
+
+
+<div class="mysecDiv">
+  <div class="counter"  [ngStyle]="{ 'background-color': color1}">
+    <h1>counter 1</h1> <span class="dot" [ngStyle]="{ 'background-color': dot1}"></span>
+    <h1>-cur_num-</h1>
+  </div>
+  <div class="counter" [ngStyle]="{ 'background-color': color2}">
+    <h1>counter 2</h1> <span class="dot" [ngStyle]="{ 'background-color': dot2}"></span>
+    <h1>-cur_num-</h1>
+
+  </div>
+  <div class="counter" [ngStyle]="{ 'background-color': color3}">
+    <h1>counter 3</h1> <span class="dot" [ngStyle]="{ 'background-color': dot3}"></span>
+    <h1>-cur_num-</h1>
+
+  </div>
+  <div class="counter" [ngStyle]="{ 'background-color': color4}">
+    <h1>counter 4</h1> <span class="dot" [ngStyle]="{ 'background-color': dot4}"></span>
+    <h1>-cur_num-</h1>
+
+  </div>
+</div>
