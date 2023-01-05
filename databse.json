@@ -1,0 +1,54 @@
+{
+  "counter": [
+    null,
+    {
+      "status": "1"
+    },
+    {
+      "status": "1"
+    },
+    {
+      "status": "1"
+    },
+    {
+      "status": "1"
+    }
+  ],
+  "counterprocess": [
+    null,
+    {
+      "processid": "null",
+      "status": false
+    },
+    {
+      "processid": "7b9bad88-09e1-4fe9-84fa-28c4de39036c",
+      "status": true
+    },
+    {
+      "processid": "4e9b7875-5545-44a1-bebd-5eaa571d45db",
+      "status": true
+    },
+    {
+      "processid": "f8598cb7-90b0-4ca6-ab87-f105a4e39c2e",
+      "status": true
+    }
+  ],
+  "ticket": [
+    {
+      "id": "f8598cb7-90b0-4ca6-ab87-f105a4e39c2e",
+      "status": false
+    },
+    {
+      "id": "4e9b7875-5545-44a1-bebd-5eaa571d45db",
+      "status": false
+    },
+    {
+      "id": "7b9bad88-09e1-4fe9-84fa-28c4de39036c",
+      "status": false
+    },
+    {
+      "id": "6b206757-b830-433d-9a76-7ce6a043610b",
+      "status": false
+    }
+  ]
+}
